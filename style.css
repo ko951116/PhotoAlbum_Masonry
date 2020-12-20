@@ -18,7 +18,7 @@
         .label {
             top: 25px;
             left: 25px;
-            background-color: #111;
+            background-color: #292c35;
             border-radius: 50px;
             height: 29px;
             width: 53px;
@@ -51,7 +51,8 @@
             cursor: pointer;
         }
         body.dark{
-            background-color: #292c35;
+/*             background-color: #292c35;
+ */            background-color: #0d1117;
             color: #fff;
         }
 
